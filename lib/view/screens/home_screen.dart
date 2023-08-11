@@ -69,7 +69,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: Column(
                         children: [
                           Text(
-                            'Super Mario',
+                            'Super Nario',
                             style: TextStyle(
                               color: Colors.black,
                               fontSize: 30,
